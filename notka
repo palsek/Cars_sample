@@ -1,0 +1,30 @@
+projekt wg: 
+https://realpython.com/django-user-management/
+============================================================================================================
+
+
+
+
+(project7-rCIyzweb) C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website>
+(project7-rCIyzweb) C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website>python manage.py createsuperuser
+Username (leave blank to use 'gabriel'):
+Email address: a@a.pl
+Password:
+Password (again):
+Superuser created successfully.
+
+(project7-rCIyzweb) C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website>
+
+==========================================================================================================
+
+local test email server:
+(venv) $ python -m smtpd -n -c DebuggingServer localhost:1025
+
+
+============================================================================================================
+ZROBIONE DO MOMENTU (WYŁĄCZNIE):
+Send Emails to the Outside World
+
+==============================================
+
+applikacja cars jest zrobiona dodatkowo

@@ -1,0 +1,30 @@
+<!--cars/templates/services/add_service.html-->
+
+{% extends 'base_cars.html' %}
+
+
+{% block content_cars_2 %}
+
+<p><a href="{% url 'cars:get_car_services' car_id %}">Car's services</a></p>
+
+<h2>Add new service</h2>
+
+
+{% if error_message %}<p class="error"><strong>{{ error_message }}</strong></p>{% endif %}
+
+<form method="post">
+    {% csrf_token %}
+    <label>Place</label>
+    <input type="text" name="service_place" id="service_place"><br>
+    <label>Repair</label>
+    <textarea name="service_repair" id="service_repair"></textarea><br>
+    <label>Cost</label>
+    <input type="number" name="service_cost" id="service_cost" min="0.00" max="10000.00" step="0.01" /><br>
+    <label>Date</label>
+    <input type="date" name="service_date" id="service_date"><br>
+    <label hidden="true">Id car</label>
+    <input type="number" name="car_id" id="car_id" value="{{ car_id }}" hidden="true"><br>
+    <input type="submit" value="Add">
+</form>
+
+{% endblock %}
