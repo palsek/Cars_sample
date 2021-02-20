@@ -246,31 +246,3 @@ def delete_service_api(request, service_id):
         return Response({"result": "Service has been deleted."}, status=status.HTTP_200_OK)
     else:
         return Response({"result": "Nothing has been deleted, because service did not exist."}, status=status.HTTP_404_NOT_FOUND)
-
-
-
-
-
-'''
-class CarList(APIView):
-
-    print("---views_api / CarList / get")
-
-    def get(self, request, format=None):
-        if request.user.is_authenticated:
-            user = request.user
-            cars = CarFacade.get_cars_by_user_id(user.id)
-            d = {"a": "a val"}
-            return Response(d)
-        else:
-            d = {"b": "b val"}
-            return Response(d)
-'''
-'''
-class CarListPost(APIView):
-
-    def post(self, request):
-        print("I am postek")
-
-        return Response({"aaa": "a1a1a1"})
-'''
