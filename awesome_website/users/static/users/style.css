@@ -1,0 +1,10 @@
+.error {
+    background-color: red;
+  }
+
+label, input {
+    display: block;
+}
+span.helptext {
+    display: none;
+}

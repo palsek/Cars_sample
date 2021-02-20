@@ -1,0 +1,13 @@
+<!--users/templates/users/dashboard.html-->
+
+{% extends 'base.html' %}
+
+{% block content_users_2 %}
+    <div>
+        {% if user.is_authenticated %}
+            <a href="{% url 'cars:get_user_cars' %}">Show my cars</a>
+        {% else %}
+            
+        {% endif %}
+    </div>
+{% endblock %}

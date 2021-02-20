@@ -1,0 +1,941 @@
+2021-02-14 18:21:40,471 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 18:23:17,068 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\views.py changed, reloading.
+2021-02-14 18:23:17,083 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 18:23:23,129 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 18:23:53,171 cars.views   INFO     gabriel6  <WSGIRequest: GET '/carsget_user_cars'>
+2021-02-14 18:23:53,172 cars.facades.db_facades INFO     get_cars_by_user_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 6}
+2021-02-14 18:25:17,862 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\views.py changed, reloading.
+2021-02-14 18:25:17,865 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 18:25:20,537 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 18:26:30,853 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 18:27:08,034 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\views.py changed, reloading.
+2021-02-14 18:27:08,038 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 18:27:10,555 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 18:27:23,393 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\views.py changed, reloading.
+2021-02-14 18:27:23,470 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 18:27:38,999 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 18:27:46,504 cars.views   INFO     gabriel6  <WSGIRequest: GET '/carsget_user_cars'>
+2021-02-14 18:27:46,515 cars.facades.db_facades INFO     get_cars_by_user_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 6}
+2021-02-14 18:27:52,286 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): vindecoder.p.rapidapi.com:443
+2021-02-14 18:27:53,272 urllib3.connectionpool DEBUG    https://vindecoder.p.rapidapi.com:443 "GET /v1.1/decode_vin?vin=WP0ZZZ97ZEL075207 HTTP/1.1" 403 49
+2021-02-14 18:40:14,316 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\views.py changed, reloading.
+2021-02-14 18:40:14,319 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 18:40:17,835 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 18:40:25,988 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): matchilling-chuck-norris-jokes-v1.p.rapidapi.com:443
+2021-02-14 18:40:28,800 urllib3.connectionpool DEBUG    https://matchilling-chuck-norris-jokes-v1.p.rapidapi.com:443 "GET /jokes/random HTTP/1.1" 200 266
+2021-02-14 18:40:47,160 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\views.py changed, reloading.
+2021-02-14 18:40:47,163 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 18:40:50,321 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 18:40:52,774 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): matchilling-chuck-norris-jokes-v1.p.rapidapi.com:443
+2021-02-14 18:40:53,085 urllib3.connectionpool DEBUG    https://matchilling-chuck-norris-jokes-v1.p.rapidapi.com:443 "GET /jokes/random HTTP/1.1" 200 288
+2021-02-14 18:44:51,863 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\views.py changed, reloading.
+2021-02-14 18:44:51,899 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 18:44:55,111 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 18:44:56,597 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): covid-19-tracking.p.rapidapi.com:443
+2021-02-14 18:44:57,270 urllib3.connectionpool DEBUG    https://covid-19-tracking.p.rapidapi.com:443 "GET /v1/poland HTTP/1.1" 200 233
+2021-02-14 20:15:03,097 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\views.py changed, reloading.
+2021-02-14 20:15:03,102 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 20:15:06,872 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 20:15:09,527 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): vinhub.p.rapidapi.com:443
+2021-02-14 20:15:10,483 urllib3.connectionpool DEBUG    https://vinhub.p.rapidapi.com:443 "GET /account/orders HTTP/1.1" 200 144
+2021-02-14 20:17:42,172 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\views.py changed, reloading.
+2021-02-14 20:17:42,197 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 20:17:46,196 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 20:17:49,682 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): vinhub.p.rapidapi.com:443
+2021-02-14 20:17:50,103 urllib3.connectionpool DEBUG    https://vinhub.p.rapidapi.com:443 "GET /%7Breport%7D/WBAYA6C58DD143543 HTTP/1.1" 404 125
+2021-02-14 20:18:20,844 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\views.py changed, reloading.
+2021-02-14 20:18:20,850 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 20:18:24,046 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 20:18:26,409 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): vinhub.p.rapidapi.com:443
+2021-02-14 20:18:26,825 urllib3.connectionpool DEBUG    https://vinhub.p.rapidapi.com:443 "GET /%7Breport%7D/WP0ZZZ97ZEL075207 HTTP/1.1" 404 125
+2021-02-14 20:19:41,070 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\views.py changed, reloading.
+2021-02-14 20:19:41,120 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 20:19:44,271 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 20:19:46,976 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): vinhub.p.rapidapi.com:443
+2021-02-14 20:19:47,379 urllib3.connectionpool DEBUG    https://vinhub.p.rapidapi.com:443 "GET /autocheck/WBAYA6C58DD143543 HTTP/1.1" 200 141
+2021-02-14 20:20:23,562 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\views.py changed, reloading.
+2021-02-14 20:20:23,565 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 20:20:26,993 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 20:20:30,754 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): vinhub.p.rapidapi.com:443
+2021-02-14 20:20:31,145 urllib3.connectionpool DEBUG    https://vinhub.p.rapidapi.com:443 "GET /autocheck/WP0ZZZ97ZEL075207 HTTP/1.1" 200 108
+2021-02-14 20:52:12,182 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\views.py changed, reloading.
+2021-02-14 20:52:12,186 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 20:52:15,672 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 20:52:20,419 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): vpic.nhtsa.dot.gov:443
+2021-02-14 20:52:22,825 urllib3.connectionpool DEBUG    https://vpic.nhtsa.dot.gov:443 "GET /api/vehicles/decodevinvalues/WVWZZZ3CZGE139037?format=json HTTP/1.1" 200 1993
+2021-02-14 20:53:08,015 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\views.py changed, reloading.
+2021-02-14 20:53:08,019 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 20:53:11,215 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 20:53:20,319 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): vpic.nhtsa.dot.gov:443
+2021-02-14 20:53:21,729 urllib3.connectionpool DEBUG    https://vpic.nhtsa.dot.gov:443 "GET /api/vehicles/decodevinvalues/WVWZZZ3CZGE139037?format=json HTTP/1.1" 200 1993
+2021-02-14 21:10:24,794 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 21:11:28,553 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\facades\api_facades.py changed, reloading.
+2021-02-14 21:11:28,639 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 21:11:31,675 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 21:11:39,922 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\facades\api_facades.py changed, reloading.
+2021-02-14 21:11:39,937 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 21:11:42,556 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 21:12:07,863 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\facades\api_facades.py changed, reloading.
+2021-02-14 21:12:07,926 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 21:12:17,303 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 21:12:43,268 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\facades\api_facades.py changed, reloading.
+2021-02-14 21:12:43,293 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 21:12:47,509 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 21:12:57,393 django.request ERROR    Internal Server Error: /carsget_car_details/38
+Traceback (most recent call last):
+  File "C:\Users\Gabriel\.virtualenvs\project7-rCIyzweb\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Gabriel\.virtualenvs\project7-rCIyzweb\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Gabriel\.virtualenvs\project7-rCIyzweb\lib\site-packages\django\views\decorators\http.py", line 40, in inner
+    return func(request, *args, **kwargs)
+  File "C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\views.py", line 187, in get_car_details
+    car_info = NHTSAFacade.get_car_info_by_vin(vin)
+AttributeError: 'classmethod' object has no attribute 'get_car_info_by_vin'
+2021-02-14 21:13:17,493 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\facades\api_facades.py changed, reloading.
+2021-02-14 21:13:17,495 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 21:13:20,178 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 21:13:26,136 cars.facades.api_facades INFO     get_car_info_by_vin / {'cls': <class 'cars.facades.api_facades.NHTSAFacade'>, 'vin': 'WVWZZZ3CZGE139037'}
+2021-02-14 21:13:26,622 django.request ERROR    Internal Server Error: /carsget_car_details/38
+Traceback (most recent call last):
+  File "C:\Users\Gabriel\.virtualenvs\project7-rCIyzweb\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Gabriel\.virtualenvs\project7-rCIyzweb\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Gabriel\.virtualenvs\project7-rCIyzweb\lib\site-packages\django\views\decorators\http.py", line 40, in inner
+    return func(request, *args, **kwargs)
+  File "C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\views.py", line 187, in get_car_details
+    car_info = NHTSAFacade.get_car_info_by_vin(vin)
+  File "C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\facades\api_facades.py", line 22, in get_car_info_by_vin
+    response = requests.get(car_service_url)
+NameError: name 'car_service_url' is not defined
+2021-02-14 21:13:44,388 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\facades\api_facades.py changed, reloading.
+2021-02-14 21:13:44,391 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 21:13:47,568 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 21:13:49,056 cars.facades.api_facades INFO     get_car_info_by_vin / {'cls': <class 'cars.facades.api_facades.NHTSAFacade'>, 'vin': 'WVWZZZ3CZGE139037'}
+2021-02-14 21:13:49,085 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): vpic.nhtsa.dot.gov:443
+2021-02-14 21:13:50,067 urllib3.connectionpool DEBUG    https://vpic.nhtsa.dot.gov:443 "GET /api/vehicles/decodevinvalues/WVWZZZ3CZGE139037?format=json HTTP/1.1" 200 1993
+2021-02-14 21:13:58,754 cars.facades.api_facades INFO     get_car_info_by_vin / {'cls': <class 'cars.facades.api_facades.NHTSAFacade'>, 'vin': 'WVWZZZ3CZGE139037'}
+2021-02-14 21:13:58,765 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): vpic.nhtsa.dot.gov:443
+2021-02-14 21:13:59,150 urllib3.connectionpool DEBUG    https://vpic.nhtsa.dot.gov:443 "GET /api/vehicles/decodevinvalues/WVWZZZ3CZGE139037?format=json HTTP/1.1" 200 1993
+2021-02-14 21:15:16,227 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\facades\api_facades.py changed, reloading.
+2021-02-14 21:15:16,230 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 21:15:18,994 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 21:15:44,191 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\facades\api_facades.py changed, reloading.
+2021-02-14 21:15:44,221 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 21:15:47,198 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 21:16:42,963 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\facades\api_facades.py changed, reloading.
+2021-02-14 21:16:43,049 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 21:16:45,800 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 21:17:09,277 cars.facades.api_facades INFO     get_car_info_by_vin / {'cls': <class 'cars.facades.api_facades.NHTSAFacade'>, 'vin': 'WVWZZZ3CZGE139037'}
+2021-02-14 21:17:09,278 cars.facades.api_facades INFO     car_service_ulr: https://vpic.nhtsa.dot.gov/api/vehicles/decodevinvalues/WVWZZZ3CZGE139037?format=json
+2021-02-14 21:17:09,298 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): vpic.nhtsa.dot.gov:443
+2021-02-14 21:17:09,894 urllib3.connectionpool DEBUG    https://vpic.nhtsa.dot.gov:443 "GET /api/vehicles/decodevinvalues/WVWZZZ3CZGE139037?format=json HTTP/1.1" 200 1993
+2021-02-14 21:18:12,836 cars.facades.api_facades INFO     get_car_info_by_vin / {'cls': <class 'cars.facades.api_facades.NHTSAFacade'>, 'vin': 'WVWZZZ3CZGE139037'}
+2021-02-14 21:18:12,837 cars.facades.api_facades INFO     car_service_ulr: https://vpic.nhtsa.dot.gov/api/vehicles/decodevinvalues/WVWZZZ3CZGE139037?format=json
+2021-02-14 21:18:12,846 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): vpic.nhtsa.dot.gov:443
+2021-02-14 21:18:13,818 urllib3.connectionpool DEBUG    https://vpic.nhtsa.dot.gov:443 "GET /api/vehicles/decodevinvalues/WVWZZZ3CZGE139037?format=json HTTP/1.1" 200 1993
+2021-02-14 21:19:30,665 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\views.py changed, reloading.
+2021-02-14 21:19:30,679 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 21:19:34,099 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 21:19:36,130 cars.facades.api_facades INFO     get_car_info_by_vin / {'cls': <class 'cars.facades.api_facades.NHTSAFacade'>, 'vin': 'WVWZZZ3CZGE139037'}
+2021-02-14 21:19:36,132 cars.facades.api_facades INFO     car_service_ulr: https://vpic.nhtsa.dot.gov/api/vehicles/decodevinvalues/WVWZZZ3CZGE139037?format=json
+2021-02-14 21:19:36,160 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): vpic.nhtsa.dot.gov:443
+2021-02-14 21:19:36,644 urllib3.connectionpool DEBUG    https://vpic.nhtsa.dot.gov:443 "GET /api/vehicles/decodevinvalues/WVWZZZ3CZGE139037?format=json HTTP/1.1" 200 1993
+2021-02-14 21:20:09,643 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\views.py changed, reloading.
+2021-02-14 21:20:09,666 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 21:20:13,414 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 21:20:14,817 cars.facades.api_facades INFO     get_car_info_by_vin / {'cls': <class 'cars.facades.api_facades.NHTSAFacade'>, 'vin': 'WVWZZZ3CZGE139037'}
+2021-02-14 21:20:14,819 cars.facades.api_facades INFO     car_service_ulr: https://vpic.nhtsa.dot.gov/api/vehicles/decodevinvalues/WVWZZZ3CZGE139037?format=json
+2021-02-14 21:20:14,839 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): vpic.nhtsa.dot.gov:443
+2021-02-14 21:20:15,257 urllib3.connectionpool DEBUG    https://vpic.nhtsa.dot.gov:443 "GET /api/vehicles/decodevinvalues/WVWZZZ3CZGE139037?format=json HTTP/1.1" 200 1993
+2021-02-14 21:20:44,070 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\views.py changed, reloading.
+2021-02-14 21:20:44,085 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 21:20:47,568 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 21:20:52,232 cars.facades.api_facades INFO     get_car_info_by_vin / {'cls': <class 'cars.facades.api_facades.NHTSAFacade'>, 'vin': 'WVWZZZ3CZGE139037'}
+2021-02-14 21:20:52,233 cars.facades.api_facades INFO     car_service_ulr: https://vpic.nhtsa.dot.gov/api/vehicles/decodevinvalues/WVWZZZ3CZGE139037?format=json
+2021-02-14 21:20:52,252 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): vpic.nhtsa.dot.gov:443
+2021-02-14 21:20:52,787 urllib3.connectionpool DEBUG    https://vpic.nhtsa.dot.gov:443 "GET /api/vehicles/decodevinvalues/WVWZZZ3CZGE139037?format=json HTTP/1.1" 200 1993
+2021-02-14 21:20:57,187 django.request ERROR    Internal Server Error: /carsget_car_details/38
+Traceback (most recent call last):
+  File "C:\Users\Gabriel\.virtualenvs\project7-rCIyzweb\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Gabriel\.virtualenvs\project7-rCIyzweb\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Gabriel\.virtualenvs\project7-rCIyzweb\lib\site-packages\django\views\decorators\http.py", line 40, in inner
+    return func(request, *args, **kwargs)
+  File "C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\views.py", line 189, in get_car_details
+    return HttpResponse(car_info.response_data)
+AttributeError: 'dict' object has no attribute 'response_data'
+2021-02-14 21:21:15,286 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\views.py changed, reloading.
+2021-02-14 21:21:15,302 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 21:21:18,542 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 21:21:20,592 cars.facades.api_facades INFO     get_car_info_by_vin / {'cls': <class 'cars.facades.api_facades.NHTSAFacade'>, 'vin': 'WVWZZZ3CZGE139037'}
+2021-02-14 21:21:20,593 cars.facades.api_facades INFO     car_service_ulr: https://vpic.nhtsa.dot.gov/api/vehicles/decodevinvalues/WVWZZZ3CZGE139037?format=json
+2021-02-14 21:21:20,619 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): vpic.nhtsa.dot.gov:443
+2021-02-14 21:21:21,620 urllib3.connectionpool DEBUG    https://vpic.nhtsa.dot.gov:443 "GET /api/vehicles/decodevinvalues/WVWZZZ3CZGE139037?format=json HTTP/1.1" 200 1993
+2021-02-14 21:22:22,174 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\views.py changed, reloading.
+2021-02-14 21:22:22,208 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 21:22:25,777 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 21:22:30,325 cars.facades.api_facades INFO     get_car_info_by_vin / {'cls': <class 'cars.facades.api_facades.NHTSAFacade'>, 'vin': 'WVWZZZ3CZGE139037'}
+2021-02-14 21:22:30,327 cars.facades.api_facades INFO     car_service_ulr: https://vpic.nhtsa.dot.gov/api/vehicles/decodevinvalues/WVWZZZ3CZGE139037?format=json
+2021-02-14 21:22:30,349 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): vpic.nhtsa.dot.gov:443
+2021-02-14 21:22:32,859 urllib3.connectionpool DEBUG    https://vpic.nhtsa.dot.gov:443 "GET /api/vehicles/decodevinvalues/WVWZZZ3CZGE139037?format=json HTTP/1.1" 200 1993
+2021-02-14 21:23:57,340 cars.facades.api_facades INFO     get_car_info_by_vin / {'cls': <class 'cars.facades.api_facades.NHTSAFacade'>, 'vin': 'WVWZZZ3CZGE139037'}
+2021-02-14 21:23:57,342 cars.facades.api_facades INFO     car_service_ulr: https://vpic.nhtsa.dot.gov/api/vehicles/decodevinvalues/WVWZZZ3CZGE139037?format=json
+2021-02-14 21:23:57,370 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): vpic.nhtsa.dot.gov:443
+2021-02-14 21:23:58,508 urllib3.connectionpool DEBUG    https://vpic.nhtsa.dot.gov:443 "GET /api/vehicles/decodevinvalues/WVWZZZ3CZGE139037?format=json HTTP/1.1" 200 1993
+2021-02-14 21:25:05,734 cars.facades.api_facades INFO     get_car_info_by_vin / {'cls': <class 'cars.facades.api_facades.NHTSAFacade'>, 'vin': 'WVWZZZ3CZGE139037'}
+2021-02-14 21:25:05,735 cars.facades.api_facades INFO     car_service_ulr: https://vpic.nhtsa.dot.gov/api/vehicles/decodevinvalues/WVWZZZ3CZGE139037?format=json
+2021-02-14 21:25:05,747 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): vpic.nhtsa.dot.gov:443
+2021-02-14 21:25:06,823 urllib3.connectionpool DEBUG    https://vpic.nhtsa.dot.gov:443 "GET /api/vehicles/decodevinvalues/WVWZZZ3CZGE139037?format=json HTTP/1.1" 200 1993
+2021-02-14 21:26:02,976 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\views.py changed, reloading.
+2021-02-14 21:26:02,997 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 21:26:05,874 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 21:26:10,822 cars.facades.api_facades INFO     get_car_info_by_vin / {'cls': <class 'cars.facades.api_facades.NHTSAFacade'>, 'vin': 'WVWZZZ3CZGE139037'}
+2021-02-14 21:26:10,824 cars.facades.api_facades INFO     car_service_ulr: https://vpic.nhtsa.dot.gov/api/vehicles/decodevinvalues/WVWZZZ3CZGE139037?format=json
+2021-02-14 21:26:10,844 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): vpic.nhtsa.dot.gov:443
+2021-02-14 21:26:11,279 urllib3.connectionpool DEBUG    https://vpic.nhtsa.dot.gov:443 "GET /api/vehicles/decodevinvalues/WVWZZZ3CZGE139037?format=json HTTP/1.1" 200 1993
+2021-02-14 21:26:54,172 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\views.py changed, reloading.
+2021-02-14 21:26:54,174 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 21:26:58,082 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 21:27:00,331 cars.facades.api_facades INFO     get_car_info_by_vin / {'cls': <class 'cars.facades.api_facades.NHTSAFacade'>, 'vin': 'WVWZZZ3CZGE139037'}
+2021-02-14 21:27:00,332 cars.facades.api_facades INFO     car_service_ulr: https://vpic.nhtsa.dot.gov/api/vehicles/decodevinvalues/WVWZZZ3CZGE139037?format=json
+2021-02-14 21:27:00,362 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): vpic.nhtsa.dot.gov:443
+2021-02-14 21:27:00,823 urllib3.connectionpool DEBUG    https://vpic.nhtsa.dot.gov:443 "GET /api/vehicles/decodevinvalues/WVWZZZ3CZGE139037?format=json HTTP/1.1" 200 1993
+2021-02-14 21:27:01,095 django.request ERROR    Internal Server Error: /carsget_car_details/38
+Traceback (most recent call last):
+  File "C:\Users\Gabriel\.virtualenvs\project7-rCIyzweb\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Gabriel\.virtualenvs\project7-rCIyzweb\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Gabriel\.virtualenvs\project7-rCIyzweb\lib\site-packages\django\views\decorators\http.py", line 40, in inner
+    return func(request, *args, **kwargs)
+  File "C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\views.py", line 197, in get_car_details
+    return HttpResponse(json.loads(d))
+  File "C:\Users\Gabriel\AppData\Local\Programs\Python\Python37\Lib\json\__init__.py", line 341, in loads
+    raise TypeError(f'the JSON object must be str, bytes or bytearray, '
+TypeError: the JSON object must be str, bytes or bytearray, not dict
+2021-02-14 21:27:23,241 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\views.py changed, reloading.
+2021-02-14 21:27:23,246 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 21:27:26,980 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 21:27:29,212 cars.facades.api_facades INFO     get_car_info_by_vin / {'cls': <class 'cars.facades.api_facades.NHTSAFacade'>, 'vin': 'WVWZZZ3CZGE139037'}
+2021-02-14 21:27:29,213 cars.facades.api_facades INFO     car_service_ulr: https://vpic.nhtsa.dot.gov/api/vehicles/decodevinvalues/WVWZZZ3CZGE139037?format=json
+2021-02-14 21:27:29,234 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): vpic.nhtsa.dot.gov:443
+2021-02-14 21:27:29,605 urllib3.connectionpool DEBUG    https://vpic.nhtsa.dot.gov:443 "GET /api/vehicles/decodevinvalues/WVWZZZ3CZGE139037?format=json HTTP/1.1" 200 1993
+2021-02-14 21:27:46,325 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\views.py changed, reloading.
+2021-02-14 21:27:46,328 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 21:27:49,262 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 21:27:54,078 cars.facades.api_facades INFO     get_car_info_by_vin / {'cls': <class 'cars.facades.api_facades.NHTSAFacade'>, 'vin': 'WVWZZZ3CZGE139037'}
+2021-02-14 21:27:54,080 cars.facades.api_facades INFO     car_service_ulr: https://vpic.nhtsa.dot.gov/api/vehicles/decodevinvalues/WVWZZZ3CZGE139037?format=json
+2021-02-14 21:27:54,120 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): vpic.nhtsa.dot.gov:443
+2021-02-14 21:27:54,556 urllib3.connectionpool DEBUG    https://vpic.nhtsa.dot.gov:443 "GET /api/vehicles/decodevinvalues/WVWZZZ3CZGE139037?format=json HTTP/1.1" 200 1993
+2021-02-14 21:28:41,367 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\views.py changed, reloading.
+2021-02-14 21:28:41,371 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 21:28:44,725 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 21:28:46,433 cars.facades.api_facades INFO     get_car_info_by_vin / {'cls': <class 'cars.facades.api_facades.NHTSAFacade'>, 'vin': 'WVWZZZ3CZGE139037'}
+2021-02-14 21:28:46,434 cars.facades.api_facades INFO     car_service_ulr: https://vpic.nhtsa.dot.gov/api/vehicles/decodevinvalues/WVWZZZ3CZGE139037?format=json
+2021-02-14 21:28:46,455 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): vpic.nhtsa.dot.gov:443
+2021-02-14 21:28:46,886 urllib3.connectionpool DEBUG    https://vpic.nhtsa.dot.gov:443 "GET /api/vehicles/decodevinvalues/WVWZZZ3CZGE139037?format=json HTTP/1.1" 200 1993
+2021-02-14 21:30:46,300 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\models.py changed, reloading.
+2021-02-14 21:30:46,302 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 21:30:48,871 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 21:31:11,574 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 21:32:53,246 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\models.py changed, reloading.
+2021-02-14 21:32:53,255 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 21:32:56,656 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 21:33:02,572 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 21:33:10,458 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 21:33:46,344 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\facades\db_facades.py changed, reloading.
+2021-02-14 21:33:46,349 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 21:33:48,893 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 21:34:42,499 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\facades\db_facades.py changed, reloading.
+2021-02-14 21:34:42,535 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 21:34:45,306 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 21:34:53,336 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\facades\db_facades.py changed, reloading.
+2021-02-14 21:34:53,339 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 21:34:56,357 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 21:35:15,984 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\facades\db_facades.py changed, reloading.
+2021-02-14 21:35:16,014 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 21:35:18,927 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 21:35:25,965 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 21:35:28,034 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 1, 'brand': 'opel', 'model': 'mokka', 'year': 2018, 'vin': None}
+2021-02-14 21:35:28,047 cars.facades.db_facades INFO     delete_car_by_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'car_id': 6}
+2021-02-14 21:35:28,054 cars.facades.db_facades INFO     delete_car_by_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'car_id': 999}
+2021-02-14 21:35:28,056 cars.facades.db_facades WARNING  Car matching query does not exist.
+2021-02-14 21:35:28,063 cars.facades.db_facades INFO     edit_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'car_id': 11, 'car_brand': 'kiszka', 'car_model': 'piszka', 'car_year': 200}
+2021-02-14 21:35:28,074 cars.facades.db_facades INFO     edit_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'car_id': 17, 'car_brand': 'b', 'car_model': 'm', 'car_year': 2000}
+2021-02-14 21:35:28,083 cars.facades.db_facades INFO     get_cars_by_user_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 1}
+2021-02-14 21:35:28,084 cars.facades.db_facades INFO     get_car_by_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'car_id': 17}
+2021-02-14 21:35:28,088 cars.facades.db_facades INFO     get_car_by_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'car_id': 999}
+2021-02-14 21:35:28,090 cars.facades.db_facades WARNING  Car matching query does not exist.
+2021-02-14 21:35:28,096 cars.facades.db_facades INFO     get_cars_by_user_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 1}
+2021-02-14 21:35:28,367 cars.views   INFO     gabriel  <WSGIRequest: GET '/carsadd_car'>
+2021-02-14 21:35:28,590 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:28,591 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 2, 'brand': 'Fiat_test_add_car_post', 'model': 'Panda', 'year': '2004', 'vin': None}
+2021-02-14 21:35:28,778 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:28,779 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 3, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:35:28,785 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:28,786 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 3, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:35:28,790 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:28,791 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 3, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:35:28,795 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:28,796 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 3, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:35:28,804 cars.views   INFO     gabriel  <WSGIRequest: GET '/carsdelete_car/28'>
+2021-02-14 21:35:28,805 cars.facades.db_facades INFO     delete_car_by_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'car_id': 28}
+2021-02-14 21:35:28,987 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:28,988 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 4, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:35:28,993 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:28,993 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 4, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:35:28,999 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:28,999 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 4, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:35:29,004 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:29,005 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 4, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:35:29,010 cars.views   INFO     gabriel  <WSGIRequest: GET '/carsedit_car/32'>
+2021-02-14 21:35:29,010 cars.facades.db_facades INFO     get_car_by_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'car_id': 32}
+2021-02-14 21:35:29,172 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:29,173 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 5, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:35:29,179 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:29,179 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 5, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:35:29,184 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:29,184 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 5, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:35:29,189 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:29,190 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 5, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:35:29,196 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsedit_car/36'>
+2021-02-14 21:35:29,197 cars.facades.db_facades INFO     edit_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'car_id': 36, 'car_brand': 'Fiat_111', 'car_model': 'Panda_111', 'car_year': '2111'}
+2021-02-14 21:35:29,357 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:29,357 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 6, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:35:29,363 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:29,364 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 6, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:35:29,369 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:29,370 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 6, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:35:29,374 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:29,375 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 6, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:35:29,381 cars.views   INFO     gabriel  <WSGIRequest: GET '/carsget_user_cars'>
+2021-02-14 21:35:29,382 cars.facades.db_facades INFO     get_cars_by_user_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 6}
+2021-02-14 21:35:29,493 cars.facades.db_facades INFO     add_new_service / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'car_id': 44, 'place': 'place value', 'repair': 'repair value', 'cost': 12.5, 'date': '2020-06-23'}
+2021-02-14 21:35:29,508 cars.facades.db_facades INFO     add_new_service / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'car_id': 49, 'place': 'place value', 'repair': 'repair value', 'cost': None, 'date': None}
+2021-02-14 21:35:29,540 cars.facades.db_facades INFO     delete_service_by_id / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'service_id': 12}
+2021-02-14 21:35:29,570 cars.facades.db_facades INFO     delete_service_by_id / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'service_id': 27}
+2021-02-14 21:35:29,572 cars.facades.db_facades WARNING  Service matching query does not exist.
+2021-02-14 21:35:29,597 cars.facades.db_facades INFO     edit_service / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'service_id': 36, 'service_place': 'new place', 'service_repair': 'new repair', 'service_cost': 555.55, 'service_date': '2022-12-15', 'car_id': 67}
+2021-02-14 21:35:29,599 cars.facades.db_facades INFO     get_car_by_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'car_id': 67}
+2021-02-14 21:35:29,623 cars.facades.db_facades INFO     get_car_services / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'car_id': 69}
+2021-02-14 21:35:29,649 cars.facades.db_facades INFO     get_car_services / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'car_id': 79}
+2021-02-14 21:35:29,674 cars.facades.db_facades INFO     get_car_services / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'car_id': 83}
+2021-02-14 21:35:29,683 cars.facades.db_facades INFO     add_new_service / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'car_id': 84, 'place': 'place value', 'repair': 'repair value', 'cost': 12.5, 'date': '2020-06-23'}
+2021-02-14 21:35:29,685 cars.facades.db_facades INFO     get_service_by_id / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'service_id': 75}
+2021-02-14 21:35:29,692 cars.facades.db_facades INFO     add_new_service / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'car_id': 89, 'place': 'place value', 'repair': 'repair value', 'cost': 12.5, 'date': '2020-06-23'}
+2021-02-14 21:35:29,693 cars.facades.db_facades INFO     get_service_by_id / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'service_id': 77}
+2021-02-14 21:35:29,694 cars.facades.db_facades WARNING  Service matching query does not exist.
+2021-02-14 21:35:29,947 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:29,948 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 7, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:35:29,954 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:29,955 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 7, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:35:29,961 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:29,962 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 7, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:35:29,969 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:29,970 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 7, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:35:29,976 cars.views   INFO     gabriel  <WSGIRequest: GET '/carsadd_service/94'>
+2021-02-14 21:35:30,142 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:30,143 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 8, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:35:30,156 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:30,157 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 8, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:35:30,162 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:30,163 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 8, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:35:30,168 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:30,169 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 8, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:35:30,176 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_service/98'>
+2021-02-14 21:35:30,177 cars.facades.db_facades INFO     add_new_service / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'car_id': 98, 'place': 'place of service', 'repair': 'repair of service', 'cost': '220.50', 'date': '1999-12-20'}
+2021-02-14 21:35:30,335 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:30,336 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 9, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:35:30,343 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:30,343 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 9, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:35:30,349 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:30,349 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 9, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:35:30,354 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:30,356 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 9, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:35:30,370 cars.views   INFO     gabriel  <WSGIRequest: GET '/carsdelete_service/78'>
+2021-02-14 21:35:30,372 cars.facades.db_facades INFO     get_service_by_id / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'service_id': 78}
+2021-02-14 21:35:30,373 cars.facades.db_facades INFO     delete_service_by_id / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'service_id': 78}
+2021-02-14 21:35:30,551 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:30,552 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 10, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:35:30,557 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:30,557 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 10, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:35:30,563 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:30,564 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 10, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:35:30,569 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:30,570 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 10, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:35:30,585 cars.views   INFO     gabriel  <WSGIRequest: GET '/carsedit_service/86'>
+2021-02-14 21:35:30,585 cars.facades.db_facades INFO     get_service_by_id / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'service_id': 86}
+2021-02-14 21:35:30,755 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:30,756 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 11, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:35:30,761 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:30,762 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 11, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:35:30,768 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:30,768 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 11, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:35:30,772 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:30,773 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 11, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:35:30,789 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsedit_service/94'>
+2021-02-14 21:35:30,790 cars.facades.db_facades INFO     edit_service / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'service_id': 94, 'service_place': 'service place test', 'service_repair': 'service repair test', 'service_cost': '2000.20', 'service_date': '2222-02-22', 'car_id': '110'}
+2021-02-14 21:35:30,791 cars.facades.db_facades INFO     get_car_by_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'car_id': '110'}
+2021-02-14 21:35:30,944 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:30,945 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 12, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:35:30,950 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:30,951 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 12, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:35:30,955 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:30,956 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 12, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:35:30,960 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:30,960 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 12, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:35:30,976 cars.views   INFO     gabriel  <WSGIRequest: GET '/carsget_car_services/114'>
+2021-02-14 21:35:30,976 cars.facades.db_facades INFO     get_car_services / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'car_id': 114}
+2021-02-14 21:35:31,163 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:31,164 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 13, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:35:31,169 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:31,170 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 13, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:35:31,174 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:31,174 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 13, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:35:31,179 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:31,179 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 13, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:35:31,192 cars.views   INFO     gabriel  <WSGIRequest: GET '/carsmove_service/110'>
+2021-02-14 21:35:31,192 cars.facades.db_facades INFO     get_cars_by_user_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 13}
+2021-02-14 21:35:31,349 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:31,350 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 14, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:35:31,355 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:31,356 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 14, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:35:31,360 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:31,360 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 14, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:35:31,367 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:35:31,374 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 14, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:35:31,386 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsmove_service/118'>
+2021-02-14 21:35:31,387 cars.facades.db_facades INFO     edit_service / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'service_id': 118, 'service_place': None, 'service_repair': None, 'service_cost': None, 'service_date': None, 'car_id': '123'}
+2021-02-14 21:35:31,388 cars.facades.db_facades INFO     get_car_by_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'car_id': '123'}
+2021-02-14 21:36:20,275 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\facades\db_facades.py changed, reloading.
+2021-02-14 21:36:20,284 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 21:36:23,778 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 21:36:27,251 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 21:36:28,825 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 1, 'brand': 'opel', 'model': 'mokka', 'year': 2018, 'vin': None}
+2021-02-14 21:36:28,835 cars.facades.db_facades INFO     delete_car_by_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'car_id': 6}
+2021-02-14 21:36:28,842 cars.facades.db_facades INFO     delete_car_by_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'car_id': 999}
+2021-02-14 21:36:28,844 cars.facades.db_facades WARNING  Car matching query does not exist.
+2021-02-14 21:36:28,867 cars.facades.db_facades INFO     get_cars_by_user_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 1}
+2021-02-14 21:36:28,869 cars.facades.db_facades INFO     get_car_by_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'car_id': 17}
+2021-02-14 21:36:28,872 cars.facades.db_facades INFO     get_car_by_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'car_id': 999}
+2021-02-14 21:36:28,873 cars.facades.db_facades WARNING  Car matching query does not exist.
+2021-02-14 21:36:28,879 cars.facades.db_facades INFO     get_cars_by_user_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 1}
+2021-02-14 21:36:29,293 cars.views   INFO     gabriel  <WSGIRequest: GET '/carsadd_car'>
+2021-02-14 21:36:29,618 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:29,618 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 2, 'brand': 'Fiat_test_add_car_post', 'model': 'Panda', 'year': '2004', 'vin': None}
+2021-02-14 21:36:29,780 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:29,781 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 3, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:36:29,786 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:29,787 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 3, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:36:29,791 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:29,792 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 3, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:36:29,798 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:29,798 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 3, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:36:29,805 cars.views   INFO     gabriel  <WSGIRequest: GET '/carsdelete_car/28'>
+2021-02-14 21:36:29,806 cars.facades.db_facades INFO     delete_car_by_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'car_id': 28}
+2021-02-14 21:36:29,984 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:29,985 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 4, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:36:29,992 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:29,993 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 4, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:36:29,999 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:30,000 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 4, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:36:30,005 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:30,006 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 4, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:36:30,014 cars.views   INFO     gabriel  <WSGIRequest: GET '/carsedit_car/32'>
+2021-02-14 21:36:30,015 cars.facades.db_facades INFO     get_car_by_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'car_id': 32}
+2021-02-14 21:36:30,201 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:30,202 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 5, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:36:30,208 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:30,209 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 5, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:36:30,214 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:30,215 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 5, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:36:30,219 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:30,220 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 5, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:36:30,226 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsedit_car/36'>
+2021-02-14 21:36:30,228 django.request ERROR    Internal Server Error: /carsedit_car/36
+Traceback (most recent call last):
+  File "C:\Users\Gabriel\.virtualenvs\project7-rCIyzweb\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Gabriel\.virtualenvs\project7-rCIyzweb\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Gabriel\.virtualenvs\project7-rCIyzweb\lib\site-packages\django\views\decorators\http.py", line 40, in inner
+    return func(request, *args, **kwargs)
+  File "C:\Users\Gabriel\desktop\cars3\project7\awesome_website\cars\views.py", line 100, in edit_car
+    CarFacade.edit_car(car_id, car_brand, car_model, car_year)
+TypeError: edit_car() missing 1 required positional argument: 'car_vin'
+2021-02-14 21:36:30,422 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:30,423 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 6, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:36:30,435 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:30,436 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 6, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:36:30,440 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:30,441 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 6, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:36:30,446 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:30,447 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 6, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:36:30,454 cars.views   INFO     gabriel  <WSGIRequest: GET '/carsget_user_cars'>
+2021-02-14 21:36:30,454 cars.facades.db_facades INFO     get_cars_by_user_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 6}
+2021-02-14 21:36:30,580 cars.facades.db_facades INFO     add_new_service / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'car_id': 44, 'place': 'place value', 'repair': 'repair value', 'cost': 12.5, 'date': '2020-06-23'}
+2021-02-14 21:36:30,595 cars.facades.db_facades INFO     add_new_service / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'car_id': 49, 'place': 'place value', 'repair': 'repair value', 'cost': None, 'date': None}
+2021-02-14 21:36:30,622 cars.facades.db_facades INFO     delete_service_by_id / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'service_id': 12}
+2021-02-14 21:36:30,644 cars.facades.db_facades INFO     delete_service_by_id / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'service_id': 27}
+2021-02-14 21:36:30,646 cars.facades.db_facades WARNING  Service matching query does not exist.
+2021-02-14 21:36:30,669 cars.facades.db_facades INFO     edit_service / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'service_id': 36, 'service_place': 'new place', 'service_repair': 'new repair', 'service_cost': 555.55, 'service_date': '2022-12-15', 'car_id': 67}
+2021-02-14 21:36:30,671 cars.facades.db_facades INFO     get_car_by_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'car_id': 67}
+2021-02-14 21:36:30,697 cars.facades.db_facades INFO     get_car_services / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'car_id': 69}
+2021-02-14 21:36:30,720 cars.facades.db_facades INFO     get_car_services / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'car_id': 79}
+2021-02-14 21:36:30,749 cars.facades.db_facades INFO     get_car_services / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'car_id': 83}
+2021-02-14 21:36:30,757 cars.facades.db_facades INFO     add_new_service / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'car_id': 84, 'place': 'place value', 'repair': 'repair value', 'cost': 12.5, 'date': '2020-06-23'}
+2021-02-14 21:36:30,759 cars.facades.db_facades INFO     get_service_by_id / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'service_id': 75}
+2021-02-14 21:36:30,768 cars.facades.db_facades INFO     add_new_service / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'car_id': 89, 'place': 'place value', 'repair': 'repair value', 'cost': 12.5, 'date': '2020-06-23'}
+2021-02-14 21:36:30,769 cars.facades.db_facades INFO     get_service_by_id / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'service_id': 77}
+2021-02-14 21:36:30,770 cars.facades.db_facades WARNING  Service matching query does not exist.
+2021-02-14 21:36:31,019 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:31,019 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 7, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:36:31,027 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:31,027 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 7, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:36:31,032 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:31,033 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 7, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:36:31,038 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:31,039 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 7, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:36:31,047 cars.views   INFO     gabriel  <WSGIRequest: GET '/carsadd_service/94'>
+2021-02-14 21:36:31,212 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:31,213 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 8, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:36:31,218 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:31,218 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 8, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:36:31,223 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:31,223 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 8, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:36:31,229 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:31,237 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 8, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:36:31,244 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_service/98'>
+2021-02-14 21:36:31,245 cars.facades.db_facades INFO     add_new_service / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'car_id': 98, 'place': 'place of service', 'repair': 'repair of service', 'cost': '220.50', 'date': '1999-12-20'}
+2021-02-14 21:36:31,398 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:31,400 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 9, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:36:31,405 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:31,406 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 9, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:36:31,411 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:31,412 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 9, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:36:31,417 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:31,418 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 9, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:36:31,433 cars.views   INFO     gabriel  <WSGIRequest: GET '/carsdelete_service/78'>
+2021-02-14 21:36:31,434 cars.facades.db_facades INFO     get_service_by_id / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'service_id': 78}
+2021-02-14 21:36:31,436 cars.facades.db_facades INFO     delete_service_by_id / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'service_id': 78}
+2021-02-14 21:36:31,630 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:31,631 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 10, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:36:31,637 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:31,637 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 10, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:36:31,642 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:31,643 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 10, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:36:31,648 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:31,649 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 10, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:36:31,666 cars.views   INFO     gabriel  <WSGIRequest: GET '/carsedit_service/86'>
+2021-02-14 21:36:31,667 cars.facades.db_facades INFO     get_service_by_id / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'service_id': 86}
+2021-02-14 21:36:31,836 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:31,838 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 11, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:36:31,844 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:31,845 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 11, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:36:31,850 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:31,852 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 11, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:36:31,856 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:31,857 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 11, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:36:31,877 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsedit_service/94'>
+2021-02-14 21:36:31,878 cars.facades.db_facades INFO     edit_service / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'service_id': 94, 'service_place': 'service place test', 'service_repair': 'service repair test', 'service_cost': '2000.20', 'service_date': '2222-02-22', 'car_id': '110'}
+2021-02-14 21:36:31,880 cars.facades.db_facades INFO     get_car_by_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'car_id': '110'}
+2021-02-14 21:36:32,036 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:32,037 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 12, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:36:32,042 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:32,043 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 12, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:36:32,049 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:32,050 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 12, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:36:32,055 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:32,056 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 12, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:36:32,069 cars.views   INFO     gabriel  <WSGIRequest: GET '/carsget_car_services/114'>
+2021-02-14 21:36:32,069 cars.facades.db_facades INFO     get_car_services / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'car_id': 114}
+2021-02-14 21:36:32,235 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:32,236 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 13, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:36:32,241 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:32,242 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 13, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:36:32,247 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:32,248 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 13, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:36:32,254 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:32,255 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 13, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:36:32,268 cars.views   INFO     gabriel  <WSGIRequest: GET '/carsmove_service/110'>
+2021-02-14 21:36:32,269 cars.facades.db_facades INFO     get_cars_by_user_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 13}
+2021-02-14 21:36:32,427 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:32,429 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 14, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:36:32,433 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:32,434 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 14, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:36:32,438 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:32,439 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 14, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:36:32,445 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:36:32,453 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 14, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:36:32,465 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsmove_service/118'>
+2021-02-14 21:36:32,466 cars.facades.db_facades INFO     edit_service / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'service_id': 118, 'service_place': None, 'service_repair': None, 'service_cost': None, 'service_date': None, 'car_id': '123'}
+2021-02-14 21:36:32,467 cars.facades.db_facades INFO     get_car_by_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'car_id': '123'}
+2021-02-14 21:36:49,851 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\facades\db_facades.py changed, reloading.
+2021-02-14 21:36:49,856 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 21:36:52,639 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 21:37:09,424 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\facades\db_facades.py changed, reloading.
+2021-02-14 21:37:09,427 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 21:37:11,820 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 21:37:40,231 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\facades\db_facades.py changed, reloading.
+2021-02-14 21:37:40,245 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 21:38:10,966 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 21:38:16,458 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 21:38:18,081 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 1, 'brand': 'opel', 'model': 'mokka', 'year': 2018, 'vin': None}
+2021-02-14 21:38:18,092 cars.facades.db_facades INFO     delete_car_by_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'car_id': 6}
+2021-02-14 21:38:18,099 cars.facades.db_facades INFO     delete_car_by_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'car_id': 999}
+2021-02-14 21:38:18,100 cars.facades.db_facades WARNING  Car matching query does not exist.
+2021-02-14 21:38:18,107 cars.facades.db_facades INFO     edit_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'car_id': 11, 'car_brand': 'kiszka', 'car_model': 'piszka', 'car_year': 200, 'car_vin': None}
+2021-02-14 21:38:18,120 cars.facades.db_facades INFO     edit_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'car_id': 17, 'car_brand': 'b', 'car_model': 'm', 'car_year': 2000, 'car_vin': None}
+2021-02-14 21:38:18,127 cars.facades.db_facades INFO     get_cars_by_user_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 1}
+2021-02-14 21:38:18,129 cars.facades.db_facades INFO     get_car_by_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'car_id': 17}
+2021-02-14 21:38:18,132 cars.facades.db_facades INFO     get_car_by_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'car_id': 999}
+2021-02-14 21:38:18,133 cars.facades.db_facades WARNING  Car matching query does not exist.
+2021-02-14 21:38:18,138 cars.facades.db_facades INFO     get_cars_by_user_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 1}
+2021-02-14 21:38:18,408 cars.views   INFO     gabriel  <WSGIRequest: GET '/carsadd_car'>
+2021-02-14 21:38:18,578 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:18,579 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 2, 'brand': 'Fiat_test_add_car_post', 'model': 'Panda', 'year': '2004', 'vin': None}
+2021-02-14 21:38:18,740 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:18,741 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 3, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:38:18,747 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:18,749 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 3, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:38:18,754 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:18,755 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 3, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:38:18,761 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:18,763 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 3, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:38:18,773 cars.views   INFO     gabriel  <WSGIRequest: GET '/carsdelete_car/28'>
+2021-02-14 21:38:18,773 cars.facades.db_facades INFO     delete_car_by_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'car_id': 28}
+2021-02-14 21:38:18,938 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:18,939 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 4, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:38:18,944 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:18,944 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 4, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:38:18,949 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:18,950 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 4, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:38:18,954 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:18,955 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 4, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:38:18,961 cars.views   INFO     gabriel  <WSGIRequest: GET '/carsedit_car/32'>
+2021-02-14 21:38:18,961 cars.facades.db_facades INFO     get_car_by_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'car_id': 32}
+2021-02-14 21:38:19,122 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:19,123 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 5, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:38:19,128 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:19,129 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 5, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:38:19,134 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:19,135 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 5, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:38:19,141 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:19,142 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 5, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:38:19,147 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsedit_car/36'>
+2021-02-14 21:38:19,148 cars.facades.db_facades INFO     edit_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'car_id': 36, 'car_brand': 'Fiat_111', 'car_model': 'Panda_111', 'car_year': '2111', 'car_vin': None}
+2021-02-14 21:38:19,304 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:19,305 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 6, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:38:19,310 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:19,311 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 6, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:38:19,315 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:19,316 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 6, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:38:19,320 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:19,321 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 6, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:38:19,326 cars.views   INFO     gabriel  <WSGIRequest: GET '/carsget_user_cars'>
+2021-02-14 21:38:19,327 cars.facades.db_facades INFO     get_cars_by_user_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 6}
+2021-02-14 21:38:19,432 cars.facades.db_facades INFO     add_new_service / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'car_id': 44, 'place': 'place value', 'repair': 'repair value', 'cost': 12.5, 'date': '2020-06-23'}
+2021-02-14 21:38:19,445 cars.facades.db_facades INFO     add_new_service / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'car_id': 49, 'place': 'place value', 'repair': 'repair value', 'cost': None, 'date': None}
+2021-02-14 21:38:19,466 cars.facades.db_facades INFO     delete_service_by_id / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'service_id': 12}
+2021-02-14 21:38:19,495 cars.facades.db_facades INFO     delete_service_by_id / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'service_id': 27}
+2021-02-14 21:38:19,497 cars.facades.db_facades WARNING  Service matching query does not exist.
+2021-02-14 21:38:19,517 cars.facades.db_facades INFO     edit_service / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'service_id': 36, 'service_place': 'new place', 'service_repair': 'new repair', 'service_cost': 555.55, 'service_date': '2022-12-15', 'car_id': 67}
+2021-02-14 21:38:19,521 cars.facades.db_facades INFO     get_car_by_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'car_id': 67}
+2021-02-14 21:38:19,552 cars.facades.db_facades INFO     get_car_services / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'car_id': 69}
+2021-02-14 21:38:19,577 cars.facades.db_facades INFO     get_car_services / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'car_id': 79}
+2021-02-14 21:38:19,598 cars.facades.db_facades INFO     get_car_services / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'car_id': 83}
+2021-02-14 21:38:19,606 cars.facades.db_facades INFO     add_new_service / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'car_id': 84, 'place': 'place value', 'repair': 'repair value', 'cost': 12.5, 'date': '2020-06-23'}
+2021-02-14 21:38:19,608 cars.facades.db_facades INFO     get_service_by_id / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'service_id': 75}
+2021-02-14 21:38:19,616 cars.facades.db_facades INFO     add_new_service / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'car_id': 89, 'place': 'place value', 'repair': 'repair value', 'cost': 12.5, 'date': '2020-06-23'}
+2021-02-14 21:38:19,618 cars.facades.db_facades INFO     get_service_by_id / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'service_id': 77}
+2021-02-14 21:38:19,619 cars.facades.db_facades WARNING  Service matching query does not exist.
+2021-02-14 21:38:19,866 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:19,868 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 7, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:38:19,875 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:19,876 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 7, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:38:19,880 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:19,881 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 7, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:38:19,887 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:19,888 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 7, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:38:19,898 cars.views   INFO     gabriel  <WSGIRequest: GET '/carsadd_service/94'>
+2021-02-14 21:38:20,064 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:20,065 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 8, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:38:20,081 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:20,081 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 8, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:38:20,086 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:20,087 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 8, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:38:20,092 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:20,093 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 8, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:38:20,098 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_service/98'>
+2021-02-14 21:38:20,101 cars.facades.db_facades INFO     add_new_service / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'car_id': 98, 'place': 'place of service', 'repair': 'repair of service', 'cost': '220.50', 'date': '1999-12-20'}
+2021-02-14 21:38:20,257 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:20,258 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 9, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:38:20,263 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:20,264 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 9, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:38:20,268 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:20,269 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 9, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:38:20,274 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:20,277 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 9, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:38:20,289 cars.views   INFO     gabriel  <WSGIRequest: GET '/carsdelete_service/78'>
+2021-02-14 21:38:20,290 cars.facades.db_facades INFO     get_service_by_id / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'service_id': 78}
+2021-02-14 21:38:20,295 cars.facades.db_facades INFO     delete_service_by_id / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'service_id': 78}
+2021-02-14 21:38:20,472 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:20,473 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 10, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:38:20,478 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:20,479 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 10, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:38:20,483 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:20,484 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 10, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:38:20,489 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:20,490 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 10, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:38:20,504 cars.views   INFO     gabriel  <WSGIRequest: GET '/carsedit_service/86'>
+2021-02-14 21:38:20,505 cars.facades.db_facades INFO     get_service_by_id / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'service_id': 86}
+2021-02-14 21:38:20,841 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:20,842 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 11, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:38:20,850 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:20,851 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 11, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:38:20,859 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:20,860 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 11, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:38:20,867 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:20,868 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 11, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:38:20,891 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsedit_service/94'>
+2021-02-14 21:38:20,894 cars.facades.db_facades INFO     edit_service / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'service_id': 94, 'service_place': 'service place test', 'service_repair': 'service repair test', 'service_cost': '2000.20', 'service_date': '2222-02-22', 'car_id': '110'}
+2021-02-14 21:38:20,896 cars.facades.db_facades INFO     get_car_by_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'car_id': '110'}
+2021-02-14 21:38:21,214 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:21,215 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 12, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:38:21,224 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:21,225 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 12, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:38:21,233 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:21,234 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 12, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:38:21,242 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:21,244 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 12, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:38:21,264 cars.views   INFO     gabriel  <WSGIRequest: GET '/carsget_car_services/114'>
+2021-02-14 21:38:21,265 cars.facades.db_facades INFO     get_car_services / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'car_id': 114}
+2021-02-14 21:38:21,445 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:21,446 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 13, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:38:21,452 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:21,452 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 13, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:38:21,457 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:21,458 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 13, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:38:21,462 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:21,463 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 13, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:38:21,477 cars.views   INFO     gabriel  <WSGIRequest: GET '/carsmove_service/110'>
+2021-02-14 21:38:21,478 cars.facades.db_facades INFO     get_cars_by_user_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 13}
+2021-02-14 21:38:21,644 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:21,645 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 14, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:38:21,650 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:21,651 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 14, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:38:21,657 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:21,658 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 14, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:38:21,662 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:38:21,663 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 14, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:38:21,676 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsmove_service/118'>
+2021-02-14 21:38:21,677 cars.facades.db_facades INFO     edit_service / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'service_id': 118, 'service_place': None, 'service_repair': None, 'service_cost': None, 'service_date': None, 'car_id': '123'}
+2021-02-14 21:38:21,679 cars.facades.db_facades INFO     get_car_by_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'car_id': '123'}
+2021-02-14 21:40:21,333 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\views.py changed, reloading.
+2021-02-14 21:40:21,339 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 21:40:23,836 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 21:41:22,733 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 21:41:24,370 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 1, 'brand': 'opel', 'model': 'mokka', 'year': 2018, 'vin': None}
+2021-02-14 21:41:24,382 cars.facades.db_facades INFO     delete_car_by_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'car_id': 6}
+2021-02-14 21:41:24,389 cars.facades.db_facades INFO     delete_car_by_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'car_id': 999}
+2021-02-14 21:41:24,390 cars.facades.db_facades WARNING  Car matching query does not exist.
+2021-02-14 21:41:24,400 cars.facades.db_facades INFO     edit_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'car_id': 11, 'car_brand': 'kiszka', 'car_model': 'piszka', 'car_year': 200, 'car_vin': None}
+2021-02-14 21:41:24,415 cars.facades.db_facades INFO     edit_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'car_id': 17, 'car_brand': 'b', 'car_model': 'm', 'car_year': 2000, 'car_vin': None}
+2021-02-14 21:41:24,421 cars.facades.db_facades INFO     get_cars_by_user_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 1}
+2021-02-14 21:41:24,422 cars.facades.db_facades INFO     get_car_by_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'car_id': 17}
+2021-02-14 21:41:24,427 cars.facades.db_facades INFO     get_car_by_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'car_id': 999}
+2021-02-14 21:41:24,428 cars.facades.db_facades WARNING  Car matching query does not exist.
+2021-02-14 21:41:24,434 cars.facades.db_facades INFO     get_cars_by_user_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 1}
+2021-02-14 21:41:24,722 cars.views   INFO     gabriel  <WSGIRequest: GET '/carsadd_car'>
+2021-02-14 21:41:24,942 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:24,943 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 2, 'brand': 'Fiat_test_add_car_post', 'model': 'Panda', 'year': '2004', 'vin': None}
+2021-02-14 21:41:25,122 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:25,123 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 3, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:41:25,131 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:25,132 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 3, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:41:25,137 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:25,139 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 3, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:41:25,146 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:25,147 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 3, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:41:25,154 cars.views   INFO     gabriel  <WSGIRequest: GET '/carsdelete_car/28'>
+2021-02-14 21:41:25,155 cars.facades.db_facades INFO     delete_car_by_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'car_id': 28}
+2021-02-14 21:41:25,386 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:25,388 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 4, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:41:25,395 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:25,396 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 4, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:41:25,402 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:25,406 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 4, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:41:25,414 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:25,415 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 4, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:41:25,421 cars.views   INFO     gabriel  <WSGIRequest: GET '/carsedit_car/32'>
+2021-02-14 21:41:25,422 cars.facades.db_facades INFO     get_car_by_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'car_id': 32}
+2021-02-14 21:41:25,605 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:25,606 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 5, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:41:25,611 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:25,612 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 5, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:41:25,617 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:25,618 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 5, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:41:25,624 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:25,625 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 5, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:41:25,631 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsedit_car/36'>
+2021-02-14 21:41:25,632 cars.facades.db_facades INFO     edit_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'car_id': 36, 'car_brand': 'Fiat_111', 'car_model': 'Panda_111', 'car_year': '2111', 'car_vin': None}
+2021-02-14 21:41:25,785 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:25,786 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 6, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:41:25,791 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:25,792 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 6, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:41:25,797 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:25,798 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 6, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:41:25,802 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:25,803 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 6, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:41:25,807 cars.views   INFO     gabriel  <WSGIRequest: GET '/carsget_user_cars'>
+2021-02-14 21:41:25,811 cars.facades.db_facades INFO     get_cars_by_user_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 6}
+2021-02-14 21:41:25,922 cars.facades.db_facades INFO     add_new_service / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'car_id': 44, 'place': 'place value', 'repair': 'repair value', 'cost': 12.5, 'date': '2020-06-23'}
+2021-02-14 21:41:25,934 cars.facades.db_facades INFO     add_new_service / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'car_id': 49, 'place': 'place value', 'repair': 'repair value', 'cost': None, 'date': None}
+2021-02-14 21:41:25,960 cars.facades.db_facades INFO     delete_service_by_id / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'service_id': 12}
+2021-02-14 21:41:25,999 cars.facades.db_facades INFO     delete_service_by_id / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'service_id': 27}
+2021-02-14 21:41:26,001 cars.facades.db_facades WARNING  Service matching query does not exist.
+2021-02-14 21:41:26,038 cars.facades.db_facades INFO     edit_service / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'service_id': 36, 'service_place': 'new place', 'service_repair': 'new repair', 'service_cost': 555.55, 'service_date': '2022-12-15', 'car_id': 67}
+2021-02-14 21:41:26,041 cars.facades.db_facades INFO     get_car_by_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'car_id': 67}
+2021-02-14 21:41:26,084 cars.facades.db_facades INFO     get_car_services / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'car_id': 69}
+2021-02-14 21:41:26,118 cars.facades.db_facades INFO     get_car_services / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'car_id': 79}
+2021-02-14 21:41:26,151 cars.facades.db_facades INFO     get_car_services / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'car_id': 83}
+2021-02-14 21:41:26,163 cars.facades.db_facades INFO     add_new_service / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'car_id': 84, 'place': 'place value', 'repair': 'repair value', 'cost': 12.5, 'date': '2020-06-23'}
+2021-02-14 21:41:26,165 cars.facades.db_facades INFO     get_service_by_id / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'service_id': 75}
+2021-02-14 21:41:26,178 cars.facades.db_facades INFO     add_new_service / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'car_id': 89, 'place': 'place value', 'repair': 'repair value', 'cost': 12.5, 'date': '2020-06-23'}
+2021-02-14 21:41:26,180 cars.facades.db_facades INFO     get_service_by_id / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'service_id': 77}
+2021-02-14 21:41:26,182 cars.facades.db_facades WARNING  Service matching query does not exist.
+2021-02-14 21:41:26,633 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:26,635 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 7, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:41:26,644 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:26,645 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 7, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:41:26,653 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:26,654 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 7, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:41:26,662 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:26,663 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 7, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:41:26,674 cars.views   INFO     gabriel  <WSGIRequest: GET '/carsadd_service/94'>
+2021-02-14 21:41:26,887 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:26,888 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 8, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:41:26,895 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:26,896 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 8, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:41:26,902 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:26,902 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 8, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:41:26,909 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:26,911 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 8, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:41:26,918 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_service/98'>
+2021-02-14 21:41:26,919 cars.facades.db_facades INFO     add_new_service / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'car_id': 98, 'place': 'place of service', 'repair': 'repair of service', 'cost': '220.50', 'date': '1999-12-20'}
+2021-02-14 21:41:27,090 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:27,091 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 9, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:41:27,096 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:27,097 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 9, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:41:27,101 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:27,102 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 9, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:41:27,106 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:27,107 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 9, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:41:27,120 cars.views   INFO     gabriel  <WSGIRequest: GET '/carsdelete_service/78'>
+2021-02-14 21:41:27,121 cars.facades.db_facades INFO     get_service_by_id / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'service_id': 78}
+2021-02-14 21:41:27,122 cars.facades.db_facades INFO     delete_service_by_id / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'service_id': 78}
+2021-02-14 21:41:27,287 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:27,288 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 10, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:41:27,293 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:27,294 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 10, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:41:27,299 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:27,300 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 10, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:41:27,304 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:27,305 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 10, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:41:27,320 cars.views   INFO     gabriel  <WSGIRequest: GET '/carsedit_service/86'>
+2021-02-14 21:41:27,320 cars.facades.db_facades INFO     get_service_by_id / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'service_id': 86}
+2021-02-14 21:41:27,489 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:27,490 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 11, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:41:27,495 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:27,496 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 11, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:41:27,500 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:27,501 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 11, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:41:27,507 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:27,508 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 11, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:41:27,531 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsedit_service/94'>
+2021-02-14 21:41:27,532 cars.facades.db_facades INFO     edit_service / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'service_id': 94, 'service_place': 'service place test', 'service_repair': 'service repair test', 'service_cost': '2000.20', 'service_date': '2222-02-22', 'car_id': '110'}
+2021-02-14 21:41:27,534 cars.facades.db_facades INFO     get_car_by_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'car_id': '110'}
+2021-02-14 21:41:27,724 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:27,725 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 12, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:41:27,732 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:27,733 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 12, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:41:27,739 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:27,740 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 12, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:41:27,745 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:27,745 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 12, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:41:27,760 cars.views   INFO     gabriel  <WSGIRequest: GET '/carsget_car_services/114'>
+2021-02-14 21:41:27,761 cars.facades.db_facades INFO     get_car_services / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'car_id': 114}
+2021-02-14 21:41:28,084 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:28,085 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 13, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:41:28,092 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:28,093 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 13, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:41:28,108 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:28,109 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 13, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:41:28,116 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:28,117 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 13, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:41:28,134 cars.views   INFO     gabriel  <WSGIRequest: GET '/carsmove_service/110'>
+2021-02-14 21:41:28,134 cars.facades.db_facades INFO     get_cars_by_user_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 13}
+2021-02-14 21:41:28,347 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:28,348 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 14, 'brand': 'Fiat_1', 'model': 'Panda_1', 'year': '2001', 'vin': None}
+2021-02-14 21:41:28,353 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:28,353 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 14, 'brand': 'Fiat_2', 'model': 'Panda_2', 'year': '2002', 'vin': None}
+2021-02-14 21:41:28,358 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:28,359 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 14, 'brand': 'Fiat_3', 'model': 'Panda_3', 'year': '2003', 'vin': None}
+2021-02-14 21:41:28,365 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:28,366 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 14, 'brand': 'Fiat_4', 'model': 'Panda_4', 'year': '2004', 'vin': None}
+2021-02-14 21:41:28,380 cars.views   INFO     gabriel  <WSGIRequest: POST '/carsmove_service/118'>
+2021-02-14 21:41:28,381 cars.facades.db_facades INFO     edit_service / {'cls': <class 'cars.facades.db_facades.ServiceFacade'>, 'service_id': 118, 'service_place': None, 'service_repair': None, 'service_cost': None, 'service_date': None, 'car_id': '123'}
+2021-02-14 21:41:28,383 cars.facades.db_facades INFO     get_car_by_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'car_id': '123'}
+2021-02-14 21:41:35,614 cars.views   INFO     gabriel6  <WSGIRequest: GET '/carsget_user_cars'>
+2021-02-14 21:41:35,615 cars.facades.db_facades INFO     get_cars_by_user_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 6}
+2021-02-14 21:41:37,314 cars.views   INFO     gabriel6  <WSGIRequest: GET '/carsadd_car'>
+2021-02-14 21:41:46,498 cars.views   INFO     gabriel6  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:41:46,499 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 6, 'brand': 'opel', 'model': 'zafira', 'year': '32', 'vin': None}
+2021-02-14 21:41:46,632 cars.views   INFO     gabriel6  <WSGIRequest: GET '/carsget_user_cars'>
+2021-02-14 21:41:46,633 cars.facades.db_facades INFO     get_cars_by_user_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 6}
+2021-02-14 21:41:54,104 cars.views   INFO     gabriel6  <WSGIRequest: GET '/carsadd_car'>
+2021-02-14 21:42:06,552 cars.views   INFO     gabriel6  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:42:06,553 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 6, 'brand': 'opel', 'model': 'astra', 'year': '32', 'vin': None}
+2021-02-14 21:42:06,671 cars.views   INFO     gabriel6  <WSGIRequest: GET '/carsget_user_cars'>
+2021-02-14 21:42:06,672 cars.facades.db_facades INFO     get_cars_by_user_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 6}
+2021-02-14 21:43:23,190 cars.views   INFO     gabriel6  <WSGIRequest: GET '/carsadd_car'>
+2021-02-14 21:43:29,972 cars.views   INFO     gabriel6  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:43:35,778 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 6, 'brand': 'xxxx', 'model': 'xxxxx', 'year': 0, 'vin': None}
+2021-02-14 21:43:38,027 cars.views   INFO     gabriel6  <WSGIRequest: GET '/carsget_user_cars'>
+2021-02-14 21:43:38,029 cars.facades.db_facades INFO     get_cars_by_user_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 6}
+2021-02-14 21:43:47,946 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\views.py changed, reloading.
+2021-02-14 21:43:47,972 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 21:43:50,730 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 21:43:52,832 cars.views   INFO     gabriel6  <WSGIRequest: GET '/carsadd_car'>
+2021-02-14 21:44:09,484 cars.views   INFO     gabriel6  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:44:09,485 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 6, 'brand': 'ww', 'model': 'w', 'year': 0, 'vin': '21'}
+2021-02-14 21:44:09,620 cars.views   INFO     gabriel6  <WSGIRequest: GET '/carsget_user_cars'>
+2021-02-14 21:44:09,622 cars.facades.db_facades INFO     get_cars_by_user_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 6}
+2021-02-14 21:44:22,685 cars.views   INFO     gabriel6  <WSGIRequest: GET '/carsadd_car'>
+2021-02-14 21:44:28,714 cars.views   INFO     gabriel6  <WSGIRequest: POST '/carsadd_car'>
+2021-02-14 21:44:28,715 cars.facades.db_facades INFO     add_new_car / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 6, 'brand': 'e', 'model': 'e', 'year': 0, 'vin': None}
+2021-02-14 21:44:28,847 cars.views   INFO     gabriel6  <WSGIRequest: GET '/carsget_user_cars'>
+2021-02-14 21:44:28,848 cars.facades.db_facades INFO     get_cars_by_user_id / {'cls': <class 'cars.facades.db_facades.CarFacade'>, 'user_id': 6}
+2021-02-14 21:45:57,976 cars.facades.api_facades INFO     get_car_info_by_vin / {'cls': <class 'cars.facades.api_facades.NHTSAFacade'>, 'vin': 'WVWZZZ3CZGE139037'}
+2021-02-14 21:45:57,978 cars.facades.api_facades INFO     car_service_ulr: https://vpic.nhtsa.dot.gov/api/vehicles/decodevinvalues/WVWZZZ3CZGE139037?format=json
+2021-02-14 21:45:58,006 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): vpic.nhtsa.dot.gov:443
+2021-02-14 21:45:59,011 urllib3.connectionpool DEBUG    https://vpic.nhtsa.dot.gov:443 "GET /api/vehicles/decodevinvalues/WVWZZZ3CZGE139037?format=json HTTP/1.1" 200 1993
+2021-02-14 21:46:50,728 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\facades\api_facades.py changed, reloading.
+2021-02-14 21:46:50,731 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 21:46:53,884 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 21:47:13,121 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\views.py changed, reloading.
+2021-02-14 21:47:13,126 asyncio      DEBUG    Using selector: SelectSelector
+2021-02-14 21:47:16,008 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-02-14 21:47:20,155 cars.facades.api_facades INFO     get_car_info_by_vin / {'cls': <class 'cars.facades.api_facades.NHTSAFacade'>, 'vin': 'WVWZZZ3CZGE139037'}
+2021-02-14 21:47:20,156 cars.facades.api_facades INFO     car_service_ulr: https://vpic.nhtsa.dot.gov/api/vehicles/decodevinvalues/WVWZZZ3CZGE139037?format=json
+2021-02-14 21:47:20,181 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): vpic.nhtsa.dot.gov:443
+2021-02-14 21:47:21,233 urllib3.connectionpool DEBUG    https://vpic.nhtsa.dot.gov:443 "GET /api/vehicles/decodevinvalues/WVWZZZ3CZGE139037?format=json HTTP/1.1" 200 1993
+2021-02-15 12:35:51,878 cars.facades.api_facades INFO     get_car_info_by_vin / {'cls': <class 'cars.facades.api_facades.NHTSAFacade'>, 'vin': 'WVWZZZ3CZGE139037'}
+2021-02-15 12:35:52,117 cars.facades.api_facades INFO     car_service_ulr: https://vpic.nhtsa.dot.gov/api/vehicles/decodevinvalues/WVWZZZ3CZGE139037?format=json
+2021-02-15 12:35:52,148 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): vpic.nhtsa.dot.gov:443
+2021-02-15 12:35:52,583 urllib3.connectionpool DEBUG    https://vpic.nhtsa.dot.gov:443 "GET /api/vehicles/decodevinvalues/WVWZZZ3CZGE139037?format=json HTTP/1.1" 200 1993
+2021-02-15 12:39:33,966 django.utils.autoreload INFO     C:\Users\Gabriel\Desktop\Cars3\project7\awesome_website\cars\views.py changed, reloading.
+2021-02-15 12:39:33,971 asyncio      DEBUG    Using selector: SelectSelector
